@@ -1,6 +1,6 @@
 # Hi there, I'm hedev01! 👋
 
-I am a passionate software developer specializing in building cross-platform mobile applications with Flutter and robust backend services using C# and ASP.NET Core. I love turning complex ideas into clean, efficient, and user-friendly code, with a strong focus on architecture and best practices.
+Flutter & .NET Developer | API Design | SQL Server | 3+ Years Experience.
 
 ---
 
