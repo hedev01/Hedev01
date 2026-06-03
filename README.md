@@ -53,7 +53,13 @@ I love building real-world projects and focusing on **clean architecture, perfor
   - Provider
   - GetX
   - BLoC Pattern
-- REST API Integration
+- Local Database:
+  - Sqflite
+  - Hive
+  - Shared Preferences
+- REST API Integration:
+  - Http
+  - Dio
 - UI/UX Development
 
 ---
